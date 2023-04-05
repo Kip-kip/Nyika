@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586397606653",
+    "project_id": "kamili-74fb3",
+    "storage_bucket": "kamili-74fb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586397606653:android:d4baa5433105d56db3d494",
+        "android_client_info": {
+          "package_name": "com.example.kamili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586397606653-pfqoooqkof98j2cehtb1grkef2akuipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbjtk6r_w2nge8gF0SliO628R_mdMooI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586397606653-pfqoooqkof98j2cehtb1grkef2akuipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

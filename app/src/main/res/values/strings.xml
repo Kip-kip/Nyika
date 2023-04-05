@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nyika</string>
+    <string name="facebook_app_id">585987970260090</string>
+    <string name="fb_login_protocol_scheme">Kamili</string>
+    <string name="facebook_client_token">911647b9691061d050829bf609f4e8ac</string>
+    <string name="google_web_client_id">586397606653-bn7o3a308iknpp1os6dnd3ni6ij1flhi.apps.googleusercontent.com</string>
+</resources>
